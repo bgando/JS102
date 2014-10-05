@@ -48,6 +48,8 @@ Links to Exercises
 
 [Arrays](https://github.com/bgando/array-exercises/)
 
+[Nested Data](https://github.com/bgando/nested-data-exercises)
+
 [Functions](https://github.com/bgando/function-exercises/)
 
 [Scope](https://github.com/bgando/scope-exercises/)
