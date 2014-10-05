@@ -31,7 +31,7 @@ If you finish one of the assignments ahead of schedule, your best bet is to rese
 
 
 ## [Before You Get Started](id:getstarted)
-Explore the files in the **Exercises Folder**.
+Download the zip file of this repository. Explore the files.
  
 Run the **index.html** file in your browser. It will appear blank, but will make all your JavaScript files available in your JavaScript console.
 
