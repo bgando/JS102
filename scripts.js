@@ -18,3 +18,20 @@ for (var key in animal) {
       console.log('I like to say ' + animal[key]);
   }
 }
+
+//Arrays
+
+var noiseArray = ['purr', 'oink'];
+
+noiseArray.unshift('Ezra');
+noiseArray.push('Chiang');
+
+noiseArray[3] = 'growl';
+
+noiseArray['hello'] = 'GMAN';
+
+animal.noises = noiseArray
+
+var animals = [];
+
+animals.push(animal);
