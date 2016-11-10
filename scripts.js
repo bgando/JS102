@@ -35,3 +35,20 @@ animal.noises = noiseArray
 var animals = [];
 
 animals.push(animal);
+
+// functions
+
+function AnimalTestUser(user) {
+  var args = arguments.length;
+  var otherArgs = [];
+  if (args > 1) {
+    for (var i=1; i<args; i++) {
+      otherArgs.push(arguments[i]);
+    }
+  }
+
+  return {
+    username: username,
+    otherArgs: otherArgs
+  };
+}
