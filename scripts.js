@@ -52,3 +52,5 @@ function AnimalTestUser(user) {
     otherArgs: otherArgs
   };
 }
+
+//higher order functions 
