@@ -18,7 +18,7 @@ If you keep track of typos and unclear directions, whoever submits the most mist
 #### [Goals](id:goals)
 Today we will practice our JS Fundamentals by creating eFarmony, a dating app that enables animals to find the love they deserve! We will create the data structures and logic that will power your application. After the exercises, all you'll need to do is create the user interface using HTML/CSS and a little jQuery (or JS DOM for the purists)!
 
-##[FAQ](id:faq)
+## [FAQ](id:faq)
 
 #### [What will I need to do well in the class?](id:need)
 - You should have some exposure to JavaScript syntax fundamentals, such as loops and control flow, objects and arrays. **If you are relatively new to these concepts, please tell a TA immediately so we can take extra care in keeping you on track during the exercises.**
