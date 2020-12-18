@@ -16,7 +16,7 @@ for (var key in animal) {
     if (key === username) {
         console.log('Hi my name is' + animal[key]);
     }
-    elseif(key === 'tagline'){
+    else if (key === 'tagline') {
         console.log('I like to say' + animal[key]);
     }
 }
